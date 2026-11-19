@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:darkgrey ;
+    text-align: center;
+}
+
+h1 {
+    color:darkblue
+
+}
+
+section{
+    background-color:antiquewhite;
+    border: 2px solid blue;
+    border-radius: 12px;
+    padding:20px;
+    margin: 30px auto;
+    max-width: 500px;
+
+}
+
+h2 {
+    color: darkblue;
+}
+
+p{
+    font-size: 20px;
+}
+
+a{
+    color: darkblue;
+    font-weight: bold;
+}
